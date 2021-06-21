@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+}
+.main1 {
+  display: flex;
+  flex: 1;
+}
+.main2 {
+  display: flex;
+  flex: 1;
+}
+.main3 {
+  display: flex;
+  flex: 13;
+}
